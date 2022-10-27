@@ -14,6 +14,7 @@ forums](https://discuss.streamlit.io).
 
 In the meantime, below is an example of what you can do with just a few lines of code:
 """
+st.markdown("Move around the bars to see the spiral change in real time!")
 
 
 with st.echo(code_location='below'):
